@@ -1,4 +1,4 @@
-package com.example.dima_.lab1;
+package labwork.lab1;
 
 import org.junit.Test;
 

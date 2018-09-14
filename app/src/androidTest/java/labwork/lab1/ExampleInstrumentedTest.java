@@ -1,4 +1,4 @@
-package com.example.dima_.lab1;
+package labwork.lab1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.dima_.lab1", appContext.getPackageName());
+        assertEquals("labwork.lab1", appContext.getPackageName());
     }
 }
