@@ -8,4 +8,5 @@
     <string name="email">Email</string>
     <string name="pass">Password</string>
     <string name="confpass">Confirm Password</string>
+    <string name="list_view_info">View List</string>
 </resources>

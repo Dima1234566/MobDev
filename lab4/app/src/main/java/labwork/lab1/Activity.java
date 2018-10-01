@@ -127,7 +127,7 @@ import java.util.regex.Matcher;
                 return matcher.matches();
             }
             public void onViewList (View view) {
-                Intent i = new Intent(this, ListActivity.class);
+                Intent i = new Intent(this, InfoActivity.class);
                 startActivity(i);
             }
         }
