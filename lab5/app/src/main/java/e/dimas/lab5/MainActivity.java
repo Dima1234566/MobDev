@@ -15,7 +15,7 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-    public class MainActivity extends AppCompatActivity {
+    private class MainActivity extends AppCompatActivity {
         ListView listView;
         @Override
         protected void onCreate(Bundle savedInstanceState) {
