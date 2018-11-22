@@ -3,7 +3,7 @@ package e.dimas.lab5;
 
 public class Photo {
 
-    private String name;
+    private final String name;
 
     public Photo(String name) {
         this.name =  name;
