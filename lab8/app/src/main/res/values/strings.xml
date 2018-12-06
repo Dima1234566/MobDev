@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mobile_Development</string>
+    <string name="empty_text"></string>
+    <string name="say_hello">Hello</string>
+    <string name="clear">Clear</string>
+    <string name="button">Sign UP</string>
+    <string name ="lastName">Last Name</string>
+    <string name="firstName">First Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="confPass">Confirm Password</string>
+    <string name="list_view_info">View List</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="error">Error</string>
+    <string name="photo">Photo</string>
+    <string name="no_data">No data</string>
+    <string name="loading">Loading</string>
+    <string name="on_failure">Check internet connection</string>
+    <string name="text">Text</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
