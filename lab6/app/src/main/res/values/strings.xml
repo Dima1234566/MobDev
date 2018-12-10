@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="noData">NO DATA</string>
+    <string name="list_view_info">View List</string>
+    <string name="photo">Photo</string>
+    <string name="loading">Loading&#8230;)</string>
+    <string name="error">Error</string>
+    <string name="fail">Terable&#8230;)Please try later!</string>
+</resources>
